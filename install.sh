@@ -17,3 +17,4 @@ cd Moonlight4.0
 npm i
 screen
 npm start
+node index.js
